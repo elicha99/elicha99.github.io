@@ -1,0 +1,36 @@
+---
+title: "Elias Chan"
+image: "pic.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/elias-chan-041824131/"
+  - label: GitHub
+    url: "https://github.com/elicha99/elicha99.github.io"
+  - label: Email
+    url: "mailto:echan36@jhu.edu"
+
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a 2nd year MHS student in the Infectious Disease Epidemiology program at Johns Hopkins Bloomberg School of Public Health. I am interested in further exploring topics that intersect public health and environmental health such as vector borne diseases.
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+M.H.S. in Epidemiology | August 2023 - May 2025
+
+**SUNY Environmental Science and Forestry (ESF)** | Syracuse, NY
+
+B.S. in Environmental Health | August 2017 - May 2021
+
+## Experience
+
+**SUNY ESF** | COVID-19 Coordinator | September 2021 - August 2023
+
+**SUNY ESF & Syracuse University** | COVID-19 Testing Assistant | August 2020 - May 2021
+
+**SUNY ESF** | Student Research Assistant | August 2020 - May 2021
